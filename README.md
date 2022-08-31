@@ -20,7 +20,8 @@
 - It is also apparent that there are more kickstarters in later years. This could be due to the earlier success of the Kickstarters when first launched.
 ![Picture2](https://user-images.githubusercontent.com/111712209/187800921-9ba7944e-910c-4a9c-a758-ac228b0ad946.png)
 
- 
+ <img width="960" alt="data-M1-Challenge-NEW-1-kickstarter-campaigns-by-date" src="https://user-images.githubusercontent.com/111712209/187802163-7452bd46-2e7a-4bd1-bf4e-87b9ebe3a87c.png">
+
 
 ### Challenges and Difficulties Encountered
 
