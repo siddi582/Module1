@@ -7,6 +7,7 @@
 
 ## Analysis and Challenges
 
+
 ### Analysis of Outcomes Based on Launch Date
 1. What are two conclusions you can draw about the Outcomes based on Launch Date?
 - We can determine which campaigns are popular and least successful overall 
@@ -17,7 +18,7 @@
 2. What can you conclude about the Outcomes based on Goals?
 - I can conclude that the success of the campaigns tends to be higher with more projects lined up. This is due to the goal being lower in the beginning but as targets rise so do the challenges in order to meet those targets
 - It is also apparent that there are more kickstarters in later years. This could be due to the earlier success of the Kickstarters when first launched.
-![Test_Image](/Desktop/Picture2.png)
+![Picture2](https://user-images.githubusercontent.com/111712209/187800921-9ba7944e-910c-4a9c-a758-ac228b0ad946.png)
 
  
 
